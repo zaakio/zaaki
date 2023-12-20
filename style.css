@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #515151;
+}
+
+
+.main-header{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+.header{
+width: 150px;
+height: 100px;
+background-color: gray;
+display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 0 0 50% 50%;
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+.za{
+    color: white;
+}
+
+.main-nav{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.nav{
+width: 700px;
+height: 50px;
+background-color: rgb(177, 177, 177);
+display: flex;
+align-items: center;
+justify-content: space-around;
+border-radius: 25px;
+font-family: 'Oswald', sans-serif;
+font-size: 30px;
+}
+
+
+.main-all{
+    background-color: #515151;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.all-of-all{
+    height: 1000px;
+    width: 77%;
+    background-color: #bdbaba;
+    border-radius: 15px 15px 0 0;
+    padding: 30px;
+}
+.staf1{
+    background-color: #bdbaba;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card1{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card2{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Mo3ase\ Tatbekeya.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card3{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Mo3aser-E-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card4{
+    height: 220px;
+    width: 170px;
+    background: url(Img/mo3aser\ Bahta.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card5{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card6{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card7{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card8{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card9{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card10{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card11{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card12{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card13{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card14{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card15{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card16{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card17{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card18{
+    height: 220px;
+    width: 170px;
+    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.nav1:hover{
+    background-color: #878686;
+    cursor: pointer;
+    transition: 0.6s;
+    color: white;
+    border-radius: 10px;
+}
+.nav2:hover{
+    background-color: #878686;
+    cursor: pointer;
+    transition: 0.6s;
+    color: white;
+    border-radius: 10px;
+}
+.nav3:hover{
+    background-color: #878686;
+    cursor: pointer;
+    transition: 0.6s;
+    color: white;
+    border-radius: 10px;
+}
+.end{
+    background-color: #515151;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.e-end{
+    height: 80px;
+    width: 77%;
+    background-color: #373636;
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+}
+.e-end>h2{
+    color: white;
+}
+
+
+
+
+/*foooooooooter*/
+.cardoo {
+    display: flex;
+    height: 70px;
+    width: 270px;
+  }
+  
+  .cardoo svg {
+    position: absolute;
+    display: flex;
+    width: 60%;
+    height: 100%;
+    font-size: 24px;
+    font-weight: 700;
+    opacity: 1;
+    transition: opacity 0.25s;
+    z-index: 2;
+    cursor: pointer;
+  }
+  
+  .cardoo .social-link1,.cardoo .social-link2,.cardoo .social-link3,.cardoo .social-link4 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    color: whitesmoke;
+    font-size: 24px;
+    text-decoration: none;
+    transition: 0.25s;
+    border-radius: 50px;
+  }
+  
+  .cardoo svg {
+    transform: scale(1);
+  }
+  
+  .cardoo .social-link1:hover {
+    background-color: #1a1e22;
+    animation: bounce_613 0.4s linear;
+  }
+  
+  .cardoo .social-link2:hover {
+    background-color: #0a66c2;
+    animation: bounce_613 0.4s linear;
+  }
+  
+  .cardoo .social-link3:hover {
+    background-color: #1ef51a;
+    animation: bounce_613 0.4s linear;
+  }
+  
+  .cardoo .social-link4:hover {
+    background-color: #1d4292;
+    animation: bounce_613 0.4s linear;
+  }
+  
+  @keyframes bounce_613 {
+    40% {
+      transform: scale(1.4);
+    }
+  
+    60% {
+      transform: scale(0.8);
+    }
+  
+    80% {
+      transform: scale(1.2);
+    }
+  
+    100% {
+      transform: scale(1);
+    }
+  }
