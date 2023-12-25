@@ -31,6 +31,9 @@ display: flex;
 }
 .za{
     color: white;
+    animation-name: za;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
 }
 
 .main-nav{
@@ -61,7 +64,7 @@ font-size: 30px;
     margin-top: 30px;
 }
 .all-of-all{
-    height: 1024px;
+    height: 2048px;
     width: 77%;
     background-color: #bdbaba;
     border-radius: 15px 15px 0 0;
@@ -76,7 +79,7 @@ font-size: 30px;
 .card1{
     height: 220px;
     width: 170px;
-    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background: url(Img/220/الامتحان.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -127,7 +130,7 @@ font-size: 30px;
 .card6{
     height: 220px;
     width: 170px;
-    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background: url(Img/220/كيمياء.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -147,9 +150,10 @@ font-size: 30px;
 .card8{
     height: 220px;
     width: 170px;
-    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background: url(Img/220/مندليف.png)  ;
     background-repeat: no-repeat;
     background-size: cover;
+    
      border-radius: 20px;
     margin-bottom: 50px;
     margin-left: 3px;
@@ -157,7 +161,7 @@ font-size: 30px;
 .card9{
     height: 220px;
     width: 170px;
-    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background: url(Img/220/نيوتن.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -167,7 +171,7 @@ font-size: 30px;
 .card10{
     height: 220px;
     width: 170px;
-    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background: url(Img/220/كيان.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -177,7 +181,7 @@ font-size: 30px;
 .card11{
     height: 220px;
     width: 170px;
-    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background: url(Img/220/ميرسى.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -187,7 +191,7 @@ font-size: 30px;
 .card12{
     height: 220px;
     width: 170px;
-    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background: url(Img/220/برافو.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -197,7 +201,7 @@ font-size: 30px;
 .card13{
     height: 220px;
     width: 170px;
-    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background: url(Img/220/جينيال.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -372,4 +376,72 @@ font-size: 30px;
     100% {
       transform: scale(1);
     }
+  }
+
+
+
+
+  @media (max-width:430px) {
+
+    .card1{
+        height: 200px;
+        width: 150px;
+    }
+    .card2{
+        height: 200px;
+        width: 150px;
+    }
+    .card3{
+        height: 200px;
+        width: 150px;
+    }
+    .card4{
+        height: 200px;
+        width: 150px;
+    }
+    .card5{
+        height: 200px;
+        width: 150px;
+    }
+    .card6{
+        height: 200px;
+        width: 150px;
+    }
+    .card7{
+        height: 200px;
+        width: 150px;
+    }
+    .card8{
+        height: 200px;
+        width: 150px;
+    }
+    .card9{
+        height: 200px;
+        width: 150px;
+    }
+    .card10{
+        height: 200px;
+        width: 150px;
+    }
+    .card11{
+        height: 200px;
+        width: 150px;
+    }
+    .card12{
+        height: 200px;
+        width: 150px;
+    }
+    .card13{
+        height: 200px;
+        width: 150px;
+    }
+
+  }
+  @keyframes za{
+50%{
+color: white;
+}
+100%{
+    color: black;
+}
   }
