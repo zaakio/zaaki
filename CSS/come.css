@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Rubik+Doodle+Triangles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -65,11 +66,26 @@ font-size: 30px;
     margin-top: 30px;
 }
 .all-of-all{
-    height: 319px;
+    height: 400px;
     width: 77%;
     background-color: #bdbaba;
     border-radius: 15px 15px 0 0;
     padding: 30px;
+    font-family: 'Lemon', serif;
+}
+.all-of-all h1{
+    position: absolute;
+    top: 380px;
+    left: 550px;
+
+    font-size: 70px;
+}
+.all-of-all h2{
+    position: absolute;
+    top: 460px;
+    left: 750px;
+
+    font-size: 60px;
 }
 .nav1:hover{
     background-color: #878686;
@@ -194,83 +210,27 @@ a{
       transform: scale(1);
     }
   }
-
-
-  .t-2021{
-    width: 400px;
-    height: 100px;
-    background-color: #8c8e8f97;
-    border-radius: 25px;
-    margin: 25px;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    font-size: 40px;
-    font-family: Rubik Doodle Triangles;
-    transition: 0.7s;
-  }
-  .t-2022{
-    width: 400px;
-    height: 100px;
-    background-color: #8c8e8f97;
-    border-radius: 25px;
-    margin: 25px;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    font-size: 40px;
-    font-family: Rubik Doodle Triangles;
-    transition: 0.7s;
-  }
-  .t-2023{
-    width: 400px;
-    height: 100px;
-    background-color: #8c8e8f97;
-    border-radius: 25px;
-    margin: 25px;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    font-size: 40px;
-    font-family: Rubik Doodle Triangles;
-    transition: 0.7s;
-  }
-  .t-2024{
-    width: 400px;
-    height: 100px;
-    background-color: #8c8e8f97;
-    border-radius: 25px;
-    margin: 25px;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    font-size: 40px;
-    font-family: Rubik Doodle Triangles;
-    transition: 0.7s;
-  }
-  .t-2021:hover{
-    transform: scale(1.1);
-    cursor: pointer;
-  }
-  .t-2022:hover{
-    transform: scale(1.1);
-    cursor: pointer;
-  }
-  .t-2023:hover{
-    transform: scale(1.1);
-    cursor: pointer;
-  }
-  .t-2024:hover{
-    transform: scale(1.1);
-    cursor: pointer;
-  }
-
   @media (max-width:450px) {
     .t-2021,.t-2022,.t-2023,.t-2024{
         width: 200px;
     }
   }
+  @media (max-width:480px) {
+    .all-of-all h1{
+      position: absolute;
+      top: 380px;
+      left: 50px;
   
+      font-size: 70px;
+  }
+  .all-of-all h2{
+      position: absolute;
+      top: 460px;
+      left: 200px;
+  
+      font-size: 60px;
+  }
+  }
 @keyframes za{
     20%{
         color: white;
