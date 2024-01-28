@@ -64,7 +64,7 @@ font-size: 30px;
     margin-top: 30px;
 }
 .all-of-all{
-    height: 2048px;
+    height: 1900px;
     width: 77%;
     background-color: #bdbaba;
     border-radius: 15px 15px 0 0;
@@ -100,7 +100,7 @@ font-size: 30px;
 .card3{
     height: 220px;
     width: 170px;
-    background: url(Img/Mo3aser-E-2S-2T.png) ;
+    background: url(Img/220/جينيال.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -140,7 +140,7 @@ font-size: 30px;
 .card7{
     height: 220px;
     width: 170px;
-    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background: url(Img/220/فيزياء.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -201,7 +201,7 @@ font-size: 30px;
 .card13{
     height: 220px;
     width: 170px;
-    background: url(Img/220/جينيال.png) ;
+    background: url(Img/220/احياء.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -211,7 +211,7 @@ font-size: 30px;
 .card14{
     height: 220px;
     width: 170px;
-    background: url(Img/Adwaa-arabic-2S-2T.png) ;
+    background: url(Img/220/.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
