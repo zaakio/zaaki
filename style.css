@@ -79,7 +79,7 @@ font-size: 30px;
 .card1{
     height: 220px;
     width: 170px;
-    background: url(Img/220/الامتحان.png) ;
+    background: url(Img/220/) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
