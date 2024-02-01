@@ -79,7 +79,7 @@ font-size: 30px;
 .card1{
     height: 220px;
     width: 170px;
-    background: url(Img/220/) ;
+    background: url(g) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -100,7 +100,7 @@ font-size: 30px;
 .card3{
     height: 220px;
     width: 170px;
-    background: url(Img/220/جينيال.png) ;
+    background: url(Img/220/genyal.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -130,7 +130,7 @@ font-size: 30px;
 .card6{
     height: 220px;
     width: 170px;
-    background: url(Img/220/كيمياء.png) ;
+    background: url(Img/220/kemyaa.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -140,7 +140,7 @@ font-size: 30px;
 .card7{
     height: 220px;
     width: 170px;
-    background: url(Img/220/فيزياء.png) ;
+    background: url(Img/220/fesya.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -150,7 +150,7 @@ font-size: 30px;
 .card8{
     height: 220px;
     width: 170px;
-    background: url(Img/220/مندليف.png)  ;
+    background: url(Img/220/mandalef.png)  ;
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -161,7 +161,7 @@ font-size: 30px;
 .card9{
     height: 220px;
     width: 170px;
-    background: url(Img/220/نيوتن.png) ;
+    background: url(Img/220/newten.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -171,7 +171,7 @@ font-size: 30px;
 .card10{
     height: 220px;
     width: 170px;
-    background: url(Img/220/كيان.png) ;
+    background: url(Img/220/kayan.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -181,7 +181,7 @@ font-size: 30px;
 .card11{
     height: 220px;
     width: 170px;
-    background: url(Img/220/ميرسى.png) ;
+    background: url(Img/220/merci.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -191,7 +191,7 @@ font-size: 30px;
 .card12{
     height: 220px;
     width: 170px;
-    background: url(Img/220/برافو.png) ;
+    background: url(Img/220/bravo.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
@@ -201,7 +201,7 @@ font-size: 30px;
 .card13{
     height: 220px;
     width: 170px;
-    background: url(Img/220/احياء.png) ;
+    background: url(Img/220/a7yaa.png) ;
     background-repeat: no-repeat;
     background-size: cover;
      border-radius: 20px;
